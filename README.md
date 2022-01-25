@@ -21,11 +21,10 @@ The mechanical parts could get stuck, and the program will react to this, solvin
 
 Whenever a candy is classfied, the microcontroller stores the data in its internal flash memory, so if the system is turned off, the data will be restored when we turn it on again.
 
-![Protype Image](https://github.com/davidtr99/IndustrialClassifier_TCS34725/blob/main/image.jpg?raw=true)
+## Demo
+Click [here](https://youtu.be/xGbJat-NOs4) to see the demo video of the project.
+![Protype Image](https://github.com/davidtr99/IndustrialClassifier_TCS34725/blob/main/prototype.jpg?raw=true)
 
 ## Autors
 - David Tejero Ruiz
 - Pedro Barba Lozano
-
-## Demo Video
-Click [here](https://youtu.be/xGbJat-NOs4) to see the demo video of the project.
