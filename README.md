@@ -23,6 +23,7 @@ Whenever a candy is classfied, the microcontroller stores the data in its intern
 
 ## Demo
 Click [here](https://youtu.be/xGbJat-NOs4) to see the demo video of the project.
+
 ![Protype Image](https://github.com/davidtr99/IndustrialClassifier_TCS34725/blob/main/prototype.jpg?raw=true)
 
 ## Autors
